@@ -1,6 +1,6 @@
 <?php
 /**
- * MegaCorp LunchBuddies API
+ * MegaCorp Lunch Buddy™ API
  * @author Freddy Giordano <freddy@megacorp.com>
  * @version 1.0.0
  * @description This is the index controller for the MegaCorp LunchBuddies API.  The purpose 
